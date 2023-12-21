@@ -12,4 +12,4 @@
 
 # Time
 
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/103620029?v=4" width=115><br><sub>Eliézer Junior</sub>] | (https://github.com/ersjunior) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/103620029?v=4" width=115><br><sub>Eliézer Junior</sub>](https://github.com/ersjunior) |
