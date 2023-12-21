@@ -1,7 +1,7 @@
 <h1>AluGames - Praticando lógica com desafios</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Neste curso, praticaremos lógica de programação em alguns projetos distintos, no formato de desafios, sendo que em cada aula será apresentado um projeto.</p>
+<p>Neste projeto, praticaremos lógica de programação com JavaScript.<br>O Desafio era fazer com que ao clicar em alugar ou devolver o botão e a imagem do jogo tivesse uma pequena alteração informando se o jogo está disponível ou alugado, com um pequeno alerta informando quando é clicado nos botões.<br><br> Link do projeto: <sub>https://alura-alugames.vercel.app/</sub></p>
 
 ## 🚀 Tecnologias
 <div>
